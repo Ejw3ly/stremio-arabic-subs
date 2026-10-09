@@ -1,0 +1,19 @@
+{
+  "id": "hymt2",
+  "version": "1.0.0",
+  "types": ["subtitle"],
+  "name": "Hy-MT2 Subtitle Addon",
+  "description": "Get automated subtitles using Hy-MT2 model",
+  "catalogs": [
+    {
+      "id": "hymt2",
+      "type": "subtitle",
+      "name": "Hy-MT2 Subtitles",
+      "description": "Automated subtitles using Hy-MT2"
+    }
+  ],
+  "resources": {
+    "logo": "https://via.placeholder.com/150",
+    "background": "https://via.placeholder.com/150"
+  }
+}
